@@ -2,6 +2,7 @@
 :root {
   --primary-color: #6366f1;
   --gray-dark: #6b7280;
+  --off-white: #f3f4f6;
 }
 body {
   font-family: "Montserrat", sans-serif;
@@ -74,8 +75,17 @@ hr {
   display: block;
   margin: auto;
 }
+.section {
+  padding: 2rem;
+}
 .hero .hero-heading {
   color: var(--gray-dark);
   text-align: center;
   padding-top: 1rem;
+}
+.section h1 {
+  text-align: center;
+}
+.off-white {
+  background-color: var(--off-white);
 }
