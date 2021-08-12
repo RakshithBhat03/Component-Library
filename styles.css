@@ -41,3 +41,26 @@ hr {
 .list-non-bullet {
   list-style: none;
 }
+/* navigation */
+.navigation {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 1rem;
+  border-bottom-left-radius: 1rem;
+}
+.navigation .link {
+  color: white;
+}
+.nav-brand {
+  padding-left: 1rem;
+}
+.nav-pills {
+  text-align: right;
+}
+.navigation .nav-brand {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+.navigation .link-active {
+  font-weight: bold;
+}
