@@ -104,3 +104,8 @@ hr {
 .footer ul {
   padding-inline-start: 0px;
 }
+.footer-header {
+  font-weight: bold;
+  font-size: large;
+  padding-bottom: 0.7rem;
+}
