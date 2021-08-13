@@ -11,6 +11,10 @@ body {
 hr {
   margin: 2rem 0rem;
 }
+/* spaces */
+.padding-med {
+  padding: 2rem 1rem;
+}
 /** contianer**/
 .container {
   padding: 0rem 1rem;
@@ -70,6 +74,7 @@ hr {
 /* header */
 .hero {
   padding: 2rem;
+  padding-top: 5rem;
 }
 .hero .hero-image {
   max-width: 350px;
@@ -108,4 +113,8 @@ hr {
   font-weight: bold;
   font-size: large;
   padding-bottom: 0.7rem;
+}
+
+.padding-med {
+  padding: 2rem 1rem !important;
 }
