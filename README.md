@@ -1,2 +1,3 @@
-# Component-Library
-My component library for Portfolio.
+# Source code for my Portfolio
+
+### Hosted at https://rakshithbhat.netlify.app/
