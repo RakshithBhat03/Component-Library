@@ -92,6 +92,7 @@ hr {
 }
 .navigation .link-active {
   font-weight: bold;
+  color: var(--primary-color);
 }
 /* header */
 .hero {
