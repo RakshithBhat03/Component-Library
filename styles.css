@@ -92,6 +92,8 @@ hr {
 }
 .navigation .link-active {
   font-weight: bold;
+}
+.navigation .link-active .link {
   color: var(--primary-color);
 }
 /* header */
